@@ -72,10 +72,6 @@ This dashboard provides insights such as:
 5. Use filters and slicers to explore the data.
 
 ---
-
-## 📸 Dashboard Preview
-(Add screenshot here)
-
 Example:
 ![Dashboard Preview](https://github.com/Chinmay0502/Ecommerce_Analysis/blob/main/Ecommerce_one.png)
 
