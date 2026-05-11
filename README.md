@@ -73,8 +73,10 @@ This dashboard provides insights such as:
 
 ---
 Example:
+One:
 ![Dashboard Preview](https://github.com/Chinmay0502/Ecommerce_Analysis/blob/main/Ecommerce_one.png)
-
+Two:
+![Dashboard_Preview1](https://github.com/Chinmay0502/Ecommerce_Analysis/blob/main/Ecommerce_two.png)
 ---
 
 ## 🔥 Future Improvements
