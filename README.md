@@ -77,7 +77,7 @@ This dashboard provides insights such as:
 (Add screenshot here)
 
 Example:
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Chinmay0502/Ecommerce_Analysis/blob/main/Ecommerce_one.png)
 
 ---
 
